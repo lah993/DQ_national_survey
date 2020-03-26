@@ -4,7 +4,7 @@ Heterogeneity in clinical research data quality monitoring: a national survey da
 ## Description
 This repository contains the raw data collected from a web-based survey which aimed to explore the procedures for ensuring data quality in Australian clinical research studies. Clinical researchers were asked about their data quality monitoring procedures at all stages of a clinical study. This includes how data was defined, collected, stored, processed and represented. This dataset also include how data quality education and training was delivered to data entry staff and data managers. 
 
-This dataset has the potential to be reused by but not limited to the biomedical and health informatics community in the management of data and knowledge relating to health and disease. Further, this dataset could be reused by clinical researchers to determine what procedures are being implemented by similar study types and designs to theirs. Lastly, as this dataset is limited to the Australian clinical research study setting and therefore it could be used to make international comparisons. 
+This dataset has the potential to be reused by, but not limited to, the biomedical and health informatics community in the management of data and knowledge relating to health and disease. Further, this dataset could be reused by clinical researchers to determine what procedures are being implemented by similar study types and designs to theirs. Lastly, as this dataset is limited to the Australian clinical research study setting and therefore it could be used to make international comparisons. 
 
 ## License 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
@@ -62,7 +62,9 @@ A link to the survey questions is found [here]( https://github.com/lah993/DQ_nat
 
 ## Value of the Data
 •	This dataset is useful to the biomedical informatics and health informatics community who seek to improve outcomes, lower costs, increase safety and promote the use of high-quality services across health and healthcare delivery systems. 
+
 •	A broad spectrum of clinical studies can benefit from this dataset to aid their decisions to implement or not implement certain procedures to monitor data quality.
+
 • This data can be used for further insights into the reasons why certain types of clinical studies are not following and meeting national and international regulations; provide guidance for the development of supplementary clinical study resources; and guide the development of experiments associated to adopting technology to overcome challenges related to data collection, monitoring and upholding quality.
 
 ## References

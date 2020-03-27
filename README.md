@@ -37,7 +37,7 @@ Data quality; Clinical research; Data monitoring; Data management; Training; Edu
 ## Citation
 Please cite this data repository as: 
 
-Houston et al. (2020): Heterogeneity in clinical research data quality monitoring: a national survey dataset. Version 1. DOI. 
+Houston et al. (2020): Heterogeneity in clinical research data quality monitoring: a national survey dataset. Version 1. DOI: 10.5281/zenodo.3728266 
 
 ## Related research articles 
 Please cite the related research article as:

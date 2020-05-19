@@ -1,9 +1,7 @@
 Open SPSS and import raw data (CSV or Microsoft excel). Use the data dictionary to define raw data content, format and structure.
 
 LOGISTIC REGRESSION 
-The dependent variable was an intervention (clinical) trial or not (i.e. an observational study). 
-
-Any independent variables which achieved significance at p<0.2 from the chi square analysis were considered for inclusion in the multivariate analysis. Independent variables included: comb_collect_sett_hosp, comb_collect_sett_uni, comb_collect_sett_other, definition_deviation_remove_DKNA, monitoring_plan_remove_DKNA, guidelines_dm_combinedYes_and_DK_remove_NA, risk_based_triggered_monit_removed_DKNA, remote_monitoring_remove_DKNA, source_data_verification_remove_DKNA, feedback_cqi_remove_DKNA, participants_baseline_condensed
+The dependent variable was an intervention (clinical) trial or not (i.e. an observational study). Independent variables included in the multivariate analysis: comb_collect_sett_hosp, comb_collect_sett_uni, comb_collect_sett_other, definition_deviation_remove_DKNA, monitoring_plan_remove_DKNA, guidelines_dm_combinedYes_and_DK_remove_NA, risk_based_triggered_monit_removed_DKNA, remote_monitoring_remove_DKNA, source_data_verification_remove_DKNA, feedback_cqi_remove_DKNA, participants_baseline_condensed
 
 
 FORCED ENTRY 

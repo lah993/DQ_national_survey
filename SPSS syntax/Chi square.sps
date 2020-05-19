@@ -2,11 +2,9 @@ Open SPSS and import raw data (CSV or Microsoft excel). Use the data dictionary 
 
 * Run chi square analysis to determine the potential association between data quality monitoring variables and clinical study type. 
 
+
 CROSSTABS
-  /TABLES=observational_intervention BY health_workforce_count_inc_other_condensed 
-    organisation_admin_academic_uni organisation_admin_coopgroup_consortium organisation_admin_govt 
-    organisation_admin_hosp organisation_admin_indep_institue organisation_admin_industry 
-    organisation_admin_NGO phase_type_remove_DKNA trial_sites trial_sites_number trial_site_combined 
+  /TABLES=observational_intervention BY phase_type_remove_DKNA trial_sites trial_sites_number trial_site_combined 
     trial_site_combined_V2 trial_site_combined_V3 comb_collect_sett_health_centre 
     comb_collect_sett_hosp comb_collect_sett_indep_institute comb_collect_sett_inhome_care 
     comb_collect_sett_private_prac comb_collect_sett_uni comb_collect_sett_other participants_baseline 

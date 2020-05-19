@@ -50,7 +50,7 @@ Once the manuscript is accepted for publication, we will update this file accord
 Data was collected through an online survey form. REDCap (Research Electronic Data Capture), a secure, web-based application designed to support data capture for research studies [1]. A detailed description of the data collection process can be found in the related research article. 
 
 ## Data format and files
-The raw data provided by survey respondents has been provided in both a CSV file and Microsoft excel file for reuse. A data dictionary has been provided to support the raw data contents, format and structure. A PDF file has also been provided containing the survey questions and format. Please consider that adaptive question was applied throughout the survey, branching the total number of questions depending on individual survey responses. This is identified in the PDF file via question numbering. 
+The raw data provided by survey respondents has been provided in both a CSV file and Microsoft excel file for reuse. A data dictionary has been provided to support the raw data contents, format and structure. The SPSS syntax has also been provided for a complete record of the analysis. A PDF file has also been provided containing the survey questions and format. Please consider that adaptive question was applied throughout the survey, branching the total number of questions depending on individual survey responses. This is identified in the PDF file via question numbering. 
 
 A link to the CSV file is found [here]( https://github.com/lah993/DQ_national_survey/blob/master/DQ_National_survey%20-%20Raw%20data%20responses.csv).
 
@@ -58,7 +58,10 @@ A link to the Microsoft Excel file is found [here]( https://github.com/lah993/DQ
 
 A link to the data dictionary is found [here]( https://github.com/lah993/DQ_national_survey/blob/master/DQ_National_survey%20-%20Data%20dictionary%20.xlsx).
 
+A link to the SPSS syntax files is found [here]( https://github.com/lah993/DQ_national_survey/tree/master/SPSS%20syntax). 
+
 A link to the survey questions is found [here]( https://github.com/lah993/DQ_national_survey/blob/master/DQ_National_survey%20-%20Survey%20questions%20.pdf). 
+
 
 ## Value of the Data
 •	This dataset is useful to the biomedical informatics and health informatics community who seek to improve outcomes, lower costs, increase safety and promote the use of high-quality services across health and healthcare delivery systems. 

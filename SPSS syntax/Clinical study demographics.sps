@@ -1,6 +1,6 @@
 Open SPSS and import raw data (CSV or Microsoft excel). Use the data dictionary to define raw data content, format and structure.
 
-CLINICAL STUDY DEMOGRAPHICS
+### CLINICAL STUDY DEMOGRAPHICS
 
 * Run frequencies and the sum for health professionals’ part of the clinical study team.
 

@@ -26,7 +26,7 @@ FREQUENCIES VARIABLES=organisation_admin_academic_uni
   /STATISTICS=SUM
   /ORDER=ANALYSIS.
 
-* Define multiple response variable set for the organisation(s) that administers the clinical study. Include data items: organisation_admin_academic_uni, organisation_admin_coopgroup_consortium, organisation_admin_govt, organisation_admin_hosp, organisation_admin_indep_institue, organisation_admin_industry, organisation_admin_NGO, organisation_admin_NA, organisation_admin_DK, organisation_admin_other
+* Define multiple response variable set for the organisation(s) that administers the clinical study. Include variables: organisation_admin_academic_uni, organisation_admin_coopgroup_consortium, organisation_admin_govt, organisation_admin_hosp, organisation_admin_indep_institue, organisation_admin_industry, organisation_admin_NGO, organisation_admin_NA, organisation_admin_DK, organisation_admin_other
 * Run frequencies for defined multiple response variable set.
 
 MULT RESPONSE GROUPS=$organ_admin_multi_respon 'organ_admin_multi_respon' 
@@ -47,7 +47,7 @@ FREQUENCIES VARIABLES=intervention_type
   /STATISTICS=SUM
   /ORDER=ANALYSIS.
 
-* Run frequencies and the sum for study phase.
+* Run frequencies and the sum for study phase
 
 FREQUENCIES VARIABLES=phase_type
   /STATISTICS=SUM
@@ -67,7 +67,7 @@ FREQUENCIES VARIABLES=comb_collect_sett_health_centre comb_collect_sett_hosp
   /STATISTICS=SUM
   /ORDER=ANALYSIS.
 
-* Define multiple response variable set for combined single and multi-site data collection setting. Include data items: comb_collect_sett_health_centre, comb_collect_sett_hosp, comb_collect_sett_indep_institute, comb_collect_sett_inhome_care, comb_collect_sett_private_prac, comb_collect_sett_uni, comb_collect_sett_other
+* Define multiple response variable set for combined single and multi-site data collection setting. Include variables: comb_collect_sett_health_centre, comb_collect_sett_hosp, comb_collect_sett_indep_institute, comb_collect_sett_inhome_care, comb_collect_sett_private_prac, comb_collect_sett_uni, comb_collect_sett_other
 * Run frequencies for defined multiple response variable set.
 
 MULT RESPONSE GROUPS=$data_collect_setting 'data_collect_setting' (comb_collect_sett_health_centre 

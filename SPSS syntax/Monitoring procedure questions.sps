@@ -77,7 +77,7 @@ MULT RESPONSE GROUPS=$riskbased_trigger_nonschedual 'riskbased trigger nonschedu
   /FREQUENCIES=$riskbased_trigger_nonschedual.
 
 
-REMOTE MONITORING 
+REMOTE MONITORING  
 
 * Run frequencies and the sum for use of a remote monitoring procedure variables: remote_tele_video_con, remote_central_avail_data, remote_other
 

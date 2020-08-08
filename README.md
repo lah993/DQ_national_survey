@@ -24,7 +24,7 @@ Further information regarding the license can be found [here]( https://github.co
 Lauren Houston, Ping Yu, Allison Martin & Yasmine Probst
 
 ### Affiliations 
-School of Medicine, University of Wollongong, Australia (L.H., A.M. and Y.P.); Illawarra Health and Medical research institute, Australia (L.H. and Y.P.); and School of Computing and Information Technology, University of Wollongong, Australia (P.Y.)
+School of Medicine, University of Wollongong, Australia (L.H., A.M. and Y.P.); Illawarra Health and Medical research institute, Australia (L.H., Y.P. and P.Y.); and School of Computing and Information Technology, University of Wollongong, Australia (P.Y.)
 
 ## Corresponding author
 Ms Lauren Houston
@@ -40,9 +40,10 @@ Please cite this data repository as:
 Houston et al. (2020): Heterogeneity in clinical research data quality monitoring: a national survey dataset. https://doi.org/10.5281/zenodo.3728265
 
 ## Related research articles 
-Please cite the related research article as:
+Please cite the related research articles as:
+Houston L, Yu P, Martin A and Probst Y. Heterogeneity in clinical research data quality monitoring: a national survey. J Biomed Inform. 2020:103491. DOI: 10.1016/j.jbi.2020.103491
 
-Houston, L, Yu, P, Martin, A and Probst, Y. Heterogeneity in clinical research data quality monitoring: a national survey. Journal of Biomedical Informatics (Revision submitted). 
+Houston, L, Yu, P, Martin, A and Probst, Y. Time-consuming and expensive data quality monitoring procedures persist in clinical research: a national survey. Journal of Biomedical Informatics (Submitted for review). 
 
 Once the manuscript is accepted for publication, we will update this file accordingly. 
  

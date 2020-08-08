@@ -13,7 +13,7 @@ FREQUENCIES VARIABLES=risk_based_targeted_monito risk_based_triggered_monit remo
   /ORDER=ANALYSIS.
 
 
-RISK-BASED TARGETED MONITORING 
+RISK-BASED TARGETED MONITORING  
 
 * Run frequencies and the sum for use of a risk-based targeted monitoring procedure variables: risk_targ_guide_central, risk_targ_guide_site, risk_targ_replace_onsite, risk_targ_replace_other
   /STATISTICS=SUM
